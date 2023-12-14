@@ -1,4 +1,4 @@
-<div align=center><h1>🐳Things I take a bite or ate often </h1></div>
+<div align=center><h1>It all comes down to one thing 🍗</h1></div>
 
 <div align="center"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
